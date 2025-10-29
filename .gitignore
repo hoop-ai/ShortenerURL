@@ -1,0 +1,13 @@
+# Local environment artifacts
+.venv/
+__pycache__/
+.hypothesis/
+*.py[cod]
+
+# Schemathesis & test reports
+schemathesis-report/
+.coverage*
+
+# OS metadata
+*.DS_Store
+Thumbs.db
